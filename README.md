@@ -5,6 +5,7 @@
 **Born:** 
 - Cristopher Rodríguez Fernández
 - December 9, 2004 (age 19)
+- Alajuela, Costa Rica
 
 **Other names:** 
 - Cris
