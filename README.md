@@ -11,7 +11,7 @@
 - Cris
 
 **Ocupations:** 
-- Engineering student 
+- Computer Software Engineering student 
 
 **Years active:** 
 - 2023-present
