@@ -2,13 +2,15 @@
 
 **Description:**
 
-**Born:** Cristopher Rodríguez Fernández
-            December 9, 2004 (age 19)
-**Other names:** Cris
-**Ocupations:** engineering student - martial arts student
-**Years active:** 2009-present
-**Notable work:** Programming
-**Title:** 
+
+- **Born:** 
+- Cristopher Rodríguez Fernández
+- December 9, 2004 (age 19)
+- **Other names:** Cris
+- **Ocupations:** engineering student - martial arts student
+- **Years active:** 2009-present
+- **Notable work:** Programming
+- **Title:** 
 - CCNAv7: Introducción a Redes
 - Introducción a IOT
 - Scrum Fundamentals Certified (SFC) by SCRUMstudy
@@ -16,7 +18,7 @@
 
 **Engineering Carrer:**
 
-**Languages:** 
+- **Languages:** 
 - Java 
 - HTML 
 - PHP 
@@ -25,9 +27,9 @@
 - C# 
 - Python (early) 
 - C++ (early)
-**Frameworks:** Spring Boot
-**Libraries:** Various
-**Technologies:** Cloud Computing - Networking
+- **Frameworks:** Spring Boot
+- **Libraries:** Various
+- **Technologies:** Cloud Computing - Networking
 
 ![Description](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
