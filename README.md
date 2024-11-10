@@ -12,10 +12,9 @@
 
 **Ocupations:** 
 - Engineering student 
-- Martial arts student
 
 **Years active:** 
-- 2009-present
+- 2023-present
 
 **Notable work:** 
 - Programming
