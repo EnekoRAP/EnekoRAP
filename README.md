@@ -8,15 +8,23 @@
 - **Ocupations:** engineering student - martial arts student
 - **Years active:** 2009-present
 - **Notable work:** Programming
-- **Title:** CCNAv7: Introducción a Redes
-             Introducción a IOT
-             Scrum Fundamentals Certified (SFC) by SCRUMstudy
-             CCNAv7: Switching, Routing and Wireless Essentials
+- **Title:** 
+- CCNAv7: Introducción a Redes
+- Introducción a IOT
+- Scrum Fundamentals Certified (SFC) by SCRUMstudy
+- CCNAv7: Switching, Routing and Wireless Essentials
 
 **Engineering Carrer:**
 
-- **Languages:** Java - HTML - PHP - SQL - JavaScript 
-                 - C# - Python (early) - C++ (early)
+- **Languages:** 
+- Java 
+- HTML 
+- PHP 
+- SQL 
+- JavaScript 
+- C# 
+- Python (early) 
+- C++ (early)
 - **Frameworks:** Spring Boot
 - **Libraries:** Various
 - **Technologies:** Cloud Computing - Networking
