@@ -1,7 +1,5 @@
 # EnekoRAP
 
-## Description
-
 **Born:** 
 - Cristopher Rodríguez Fernández
 - December 9, 2004 (age 19)
