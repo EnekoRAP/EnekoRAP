@@ -37,9 +37,11 @@
 - Python (early) 
 - C++ (early)
 
-**Frameworks:** Spring Boot
+**Frameworks:** 
+- Spring Boot
 
-**Libraries:** Various
+**Libraries:** 
+- Various
 
 **Technologies:** 
 - Cloud Computing 
