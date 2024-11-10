@@ -5,15 +5,20 @@
 **Born:** 
 - Cristopher Rodríguez Fernández
 - December 9, 2004 (age 19)
+
 **Other names:** 
 - Cris
+
 **Ocupations:** 
 - Engineering student 
 - Martial arts student
+
 **Years active:** 
 - 2009-present
+
 **Notable work:** 
 - Programming
+
 **Title:** 
 - CCNAv7: Introducción a Redes
 - Introducción a IOT
@@ -31,8 +36,11 @@
 - C# 
 - Python (early) 
 - C++ (early)
+
 **Frameworks:** Spring Boot
+
 **Libraries:** Various
+
 **Technologies:** 
 - Cloud Computing 
 - Networking
