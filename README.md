@@ -17,7 +17,8 @@
 - 2023-present
 
 **Notable work:** 
-- Programming
+- Software Development
+- Network Development
 
 **Title:** 
 - CCNAv7: Introducción a Redes
