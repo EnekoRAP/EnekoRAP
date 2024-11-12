@@ -1,9 +1,9 @@
 # EnekoRAP
 
 - 🇨🇷 Born and raised in Alajuela, Costa Rica
-- 🇨🥋 Retired martial artist and stunt performer
+- 🥋 Retired martial artist and stunt performer
 - 🧑🏻‍💻 Computer software engineering student at Fidélitas University
-- 🇨🎮 Huge fan of Grand Theft Auto franchise
+- 🎮 Huge fan of Grand Theft Auto franchise
 - 🎧 Spotify playlists owner
 
 ![Description](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
