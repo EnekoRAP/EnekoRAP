@@ -1,4 +1,3 @@
-
 - 🇨🇷 Born and raised in Alajuela, Costa Rica
 - 🇨🥋 Retired martial artist and stunt performer
 - 🧑🏻‍💻 Computer software engineering student at Fidélitas University
