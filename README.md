@@ -1,53 +1,9 @@
-# EnekoRAP
 
-**Born:** 
-- Cristopher Rodríguez Fernández
-- December 9, 2004 (age 19)
-- Alajuela, Costa Rica
-
-**Other names:** 
-- Cris
-
-**Ocupations:** 
-- Computer Software Engineering student 
-
-**Years active:** 
-- 2023-present
-
-**Notable work:** 
-- Software Development
-- Network Development
-
-**Title:** 
-- CCNAv7: Introducción a Redes
-- Introducción a IOT
-- Scrum Fundamentals Certified (SFC) by SCRUMstudy
-- CCNAv7: Switching, Routing and Wireless Essentials
-
-## Engineering Carrer
-
-**Languages:** 
-- Java 
-- HTML 
-- PHP 
-- SQL 
-- JavaScript 
-- C# 
-- Python (early) 
-- C++ (early)
-
-**Frameworks:** 
-- Spring Boot
-
-**Libraries:** 
-- Various
-
-**Technologies:** 
-- Cloud Computing 
-- Networking
-
-**Label:** 
-- Universidad Fiélitas
+- 🇨🇷 Born and raised in Alajuela, Costa Rica
+- 🇨🥋 Retired martial artist and stunt performer
+- 🧑🏻‍💻 Computer software engineering student at Fidélitas University
+- 🇨🎮 Huge fan of Grand Theft Auto franchise
+- 🎧 Spotify playlists owner
 
 ![Description](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
