@@ -19,7 +19,7 @@
 
 ## Code Languages
 
-<img src="https://skillicons.dev/icons?i=cs,css,html,php,java,js,mysql,py"/>
+<img src="https://skillicons.dev/icons?i=cs,css,html,php,java,js,py"/>
 
 ## Code Libraries/Frameworks
 
