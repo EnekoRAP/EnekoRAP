@@ -10,8 +10,7 @@
 
 ## Programming Skills
 
-<img src="https://skillicons.dev/icons?i=css,html,php,js"/>
-<img src="https://skillicons.dev/icons?i=java,python,mysql,C#"/>
+<img src="https://skillicons.dev/icons?i=c#,css,html,php,java,js,mysql,python"/>
 
 ![Description](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
