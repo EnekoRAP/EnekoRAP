@@ -17,11 +17,15 @@
 <a href="mailto:rodriguezfernandezcristopher@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail"/></a>
 &nbsp;
 
-## Programming Skills
+## Code Languages
 
 <img src="https://skillicons.dev/icons?i=cs,css,html,php,java,js,mysql,py"/>
 
-## Programming Environment
+## Code Libraries/Frameworks
+
+<img src="https://skillicons.dev/icons?i=bootstrap,jquery,spring"/>
+
+## Code Environment
 
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode"/>
 
