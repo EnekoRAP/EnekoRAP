@@ -8,6 +8,11 @@
 - 🎮 Huge fan of Grand Theft Auto franchise
 - 🎧 Spotify playlists owner
 
+Social Media:
+
+<a href="https://www.instagram.com/_crisrod09?igsh=YmRpZXQxcHRhdXN1" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram"/></a>
+&nbsp;
+
 ## Programming Skills
 
 <img src="https://skillicons.dev/icons?i=css,html,php,java,js,mysql,python"/>
