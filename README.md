@@ -29,6 +29,10 @@
 
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode"/>
 
+## Data Base Language
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 ## Operating Software
 
 <img src="https://skillicons.dev/icons?i=windows"/>
