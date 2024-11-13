@@ -8,14 +8,26 @@
 - 🎮 Huge fan of Grand Theft Auto franchise
 - 🎧 Spotify playlists owner
 
-Social Media:
+**Social Media**
 
 <a href="https://www.instagram.com/_crisrod09?igsh=YmRpZXQxcHRhdXN1" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram"/></a>
+&nbsp;
+<a href="eneko_rap" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
+&nbsp;
+<a href="rodriguezfernandezcristopher@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail"/></a>
 &nbsp;
 
 ## Programming Skills
 
-<img src="https://skillicons.dev/icons?i=cs,css,html,php,java,js,mysql,python"/>
+<img src="https://skillicons.dev/icons?i=cs,css,html,php,java,js,mysql,py"/>
+
+## Programming Environment
+
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode"/>
+
+## Operating Software
+
+<img src="https://skillicons.dev/icons?i=windows"/>
 
 ![Description](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
