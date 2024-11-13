@@ -12,9 +12,9 @@
 
 <a href="https://www.instagram.com/_crisrod09?igsh=YmRpZXQxcHRhdXN1" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram"/></a>
 &nbsp;
-<a href="eneko_rap" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://www.discord.com/eneko_rap" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
 &nbsp;
-<a href="rodriguezfernandezcristopher@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://www.gmail.com/rodriguezfernandezcristopher@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail"/></a>
 &nbsp;
 
 ## Programming Skills
