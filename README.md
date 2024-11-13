@@ -12,7 +12,7 @@
 
 <a href="https://www.instagram.com/_crisrod09?igsh=YmRpZXQxcHRhdXN1" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram"/></a>
 &nbsp;
-<a href="" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://discord.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a><p align="center">eneko_rap</p>
 &nbsp;
 <a href="mailto:rodriguezfernandezcristopher@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail"/></a>
 &nbsp;
