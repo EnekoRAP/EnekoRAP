@@ -12,8 +12,6 @@ Social Media:
 
 <a href="https://www.instagram.com/_crisrod09?igsh=YmRpZXQxcHRhdXN1" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram"/></a>
 &nbsp;
-<a href="https://youtube.com/@dirkclaudespeedrandomvideos?si=s0uaYHzQR7uOx1Po" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=youtube"/></a>
-&nbsp;
 
 ## Programming Skills
 
