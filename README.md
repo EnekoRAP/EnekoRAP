@@ -37,13 +37,8 @@
 
 <img src="https://skillicons.dev/icons?i=windows"/>
 
-![Description](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+## Stats
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=EnekoRAP" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=EnekoRAP&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=EnekoRAP&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EnekoRAP&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnekoRAP&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
