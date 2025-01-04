@@ -2,17 +2,13 @@
 
 **Biography**
 
-- 🇨🇷 Born and raised in Alajuela, Costa Rica
-- 🥋 Retired martial artist and stunt performer
-- 🧑🏻‍💻 Computer software engineering student at Fidélitas University
-- 🎮 Huge fan of Grand Theft Auto franchise
-- 🎧 Spotify playlists owner
+Computer Software Engineering student🌐🧑🏻‍💻
 
 **Social Media**
 
 <a href="https://www.instagram.com/_crisrod09?igsh=YmRpZXQxcHRhdXN1" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram"/></a>
 &nbsp;
-<a href="https://discord.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://discord.gg/Eneko_RAP eneko_rap" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
 &nbsp;
 <a href="mailto:rodriguezfernandezcristopher@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail"/></a>
 &nbsp;
