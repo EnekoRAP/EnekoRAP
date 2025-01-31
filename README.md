@@ -6,11 +6,11 @@ Computer Software Engineering student🌐🧑🏻‍💻
 
 **Social Media**
 
-<a href="https://www.instagram.com/_crisrod09?igsh=YmRpZXQxcHRhdXN1" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram"/></a>
-&nbsp;
 <a href="https://discord.gg/Eneko_RAP eneko_rap" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
 &nbsp;
 <a href="mailto:rodriguezfernandezcristopher@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail"/></a>
+&nbsp;
+<a href="https://www.instagram.com/_crisrod09?igsh=YmRpZXQxcHRhdXN1" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram"/></a>
 &nbsp;
 
 ## Code Environments
