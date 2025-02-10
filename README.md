@@ -2,8 +2,6 @@
 
 # EnekoRAP
 
----
-
 ### 🙋🏻‍♂️ About Me
 Computer Software Engineering student🌐🧑🏻‍💻
 
