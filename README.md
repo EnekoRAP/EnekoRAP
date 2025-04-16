@@ -1,8 +1,7 @@
 ## 🙋🏻‍♂️ About Me
-🌴 Born and raised in Alajuela, Costa Rica<br>
-🧑🏻‍💻 Computer Software Engineering student at Universidad Fidélitas<br>
-🥋 Former martial artist and stunt performer<br>
-🎮 Grand Theft Auto franchise videogames lover
+Soy estudiante actual de la carrera de Ingeniería en Sistemas Computacionales, a punto de obtener su bachillerato y próximo a sacar la licenciatura en Ciencias de la Computación. Dentro de mi especialidad principal y enfoque favorito, se encuentra el desarrollo de aplicaciones y sitios web junto con la gestión en sistemas de base de datos, al mismo tiempo tengo experiencia en otras áreas como redes y comunicaciones, administración y auditorías de proyectos, desarrollo de aplicaciones móviles, analísis de datos, protoipados visuales e interactivos, administración en servidores, uso y manejo de máquinas virtuales, y programación en proyectos de electrónica con el uso de plataformas como Arduino.
+
+¡Dispuesto a experimentar y aprender cosas nuevas! Siempre estoy abierto a la implementación de nuevos enfoques que me permitan adquirir experiencia en el campo.
 
 ### 🌐 Social Media
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.com/users/Eneko_RAP)&nbsp;
