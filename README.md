@@ -1,7 +1,19 @@
 ## 🙋🏻‍♂️ About Me
-Soy estudiante actual de la carrera de Ingeniería en Sistemas Computacionales, a punto de obtener su bachillerato y próximo a sacar la licenciatura en Ciencias de la Computación. Dentro de mi especialidad principal y enfoque favorito, se encuentra el desarrollo de aplicaciones y sitios web junto con la gestión en sistemas de base de datos, al mismo tiempo tengo experiencia en otras áreas como redes y comunicaciones, administración y auditorías de proyectos, desarrollo de aplicaciones móviles, analísis de datos, protoipados visuales e interactivos, administración en servidores, uso y manejo de máquinas virtuales, y programación en proyectos de electrónica con el uso de plataformas como Arduino.
+👋 Hi! My name is Cristopher Rodríguez Fernández, I was born on December 9, 2004 and I live in Alajuela, Costa Rica.
 
-¡Dispuesto a experimentar y aprender cosas nuevas! Siempre estoy abierto a la implementación de nuevos enfoques que me permitan adquirir experiencia en el campo.
+**Ocupations**
+- 🧑🏻‍💻 Computer Software Engineering student at Universidad Fidélitas </br>
+- 🧠 Passionate about technology and programming </br>
+- 🥋 Former martial artist and stunt Taekwondo student </br>
+- 🎮 Grand Theft Auto franchise videogames lover </br>
+
+With more than 50% progress in my degree, I'm about to finish high school and then continue my studies in Computer Science. I also see the possibility of dedicating myself to cybersecurity in the future to learn and acquire new skills in the field and innovate my personal resume.
+
+My primary and favorite focus is application and website development, while I also enjoy database management and administration. However, I have experience in other areas such as networking and communications, project management and auditing, mobile application development, data analysis, visual and interactive prototyping, virtual machine management, and programming in electronic projects.
+
+I enjoy sharing my ideas and projects with others who share my interests and enthusiasm for technology. My main goals are also to innovate, learn, and apply all the knowledge I gradually acquire, all in order to achieve great projects in the future.
+
+Ready to collaborate on new projects and solutions!
 
 ### 🌐 Social Media
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.com/users/Eneko_RAP)&nbsp;
