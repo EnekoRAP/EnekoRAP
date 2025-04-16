@@ -13,8 +13,8 @@
 
 ## 💻 Tech Stack
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![ApexCharts](https://img.shields.io/badge/-ApexCharts-05122A?style=flat&logo=apexcharts&logoColor=FF4560)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=7952B3)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)&nbsp;
