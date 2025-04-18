@@ -1,12 +1,6 @@
 ## 🙋🏻‍♂️ About Me
 👋 Hi! My name is Cristopher Rodríguez Fernández, I was born on December 9, 2004 and I live in Alajuela, Costa Rica.
 
-**Ocupations**
-- 🧑🏻‍💻 Computer Software Engineering student at Universidad Fidélitas </br>
-- 🧠 Passionate about technology and programming </br>
-- 🥋 Former martial artist and stunt Taekwondo student </br>
-- 🎮 Grand Theft Auto franchise videogames lover </br>
-
 With more than 50% progress in my degree, I'm about to finish high school and then continue my studies in Computer Science. I also see the possibility of dedicating myself to cybersecurity in the future to learn and acquire new skills in the field and innovate my personal resume.
 
 My primary and favorite focus is application and website development, while I also enjoy database management and administration. However, I have experience in other areas such as networking and communications, project management and auditing, mobile application development, data analysis, visual and interactive prototyping, virtual machine management, and programming in electronic projects.
@@ -14,6 +8,12 @@ My primary and favorite focus is application and website development, while I al
 I enjoy sharing my ideas and projects with others who share my interests and enthusiasm for technology. My main goals are also to innovate, learn, and apply all the knowledge I gradually acquire, all in order to achieve great projects in the future.
 
 Ready to collaborate on new projects and solutions!
+
+### 🌟 Ocupations
+- 🧑🏻‍💻 Computer Software Engineering student at Universidad Fidélitas </br>
+- 🧠 Passionate about technology and programming </br>
+- 🥋 Former martial artist and Taekwondo student </br>
+- 🎮 Grand Theft Auto franchise videogames lover </br>
 
 ### 🌐 Social Media
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.com/users/Eneko_RAP)&nbsp;
