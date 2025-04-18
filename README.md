@@ -11,9 +11,8 @@ Ready to collaborate on new projects and solutions!
 
 ### 🌟 Ocupations
 - 🧑🏻‍💻 Computer Software Engineering student at Universidad Fidélitas </br>
-- 🧠 Passionate about technology and programming </br>
+- 🗣️ English student at the CCCN </br>
 - 🥋 Former martial artist and Taekwondo student </br>
-- 🎮 Grand Theft Auto franchise videogames lover </br>
 
 ### 🌐 Social Media
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.com/users/Eneko_RAP)&nbsp;
